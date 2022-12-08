@@ -6,3 +6,5 @@ requests
 pyshorteners
 #doodstream
 unshortenit
+flask
+gunicorn
